@@ -1,0 +1,11 @@
+version: 1.0.1
+files:
+  - url: Luminaria-Launcher-mac-x64.dmg
+    sha512: 2MkiAar9lWxubYiPbYfBkVkZPETg3aPRpBRngAlsxqS2ZaAq7MzMTnsd9OO4bzxMM6R6sRIuW5ARr15OVKtDxw==
+    size: 88211109
+  - url: Luminaria-Launcher-mac-arm64.dmg
+    sha512: shiz4+f94rdpNgB7FWMWmmW1mPxsbWdcf+XmLVvDfdnQzFNN8SGMTI/77rBeyZ12J7NO3X6bSWv1IhtBKPJRgg==
+    size: 86343104
+path: Luminaria-Launcher-mac-x64.dmg
+sha512: 2MkiAar9lWxubYiPbYfBkVkZPETg3aPRpBRngAlsxqS2ZaAq7MzMTnsd9OO4bzxMM6R6sRIuW5ARr15OVKtDxw==
+releaseDate: '2025-02-11T22:09:15.541Z'
