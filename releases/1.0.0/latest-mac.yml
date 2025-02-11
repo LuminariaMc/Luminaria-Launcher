@@ -1,11 +1,11 @@
 version: 1.0.0
 files:
   - url: Luminaria-Launcher-mac-x64.dmg
-    sha512: fRNsYYbdb/RodIr+09xuzHA722Y0A1cRC9TZjjPv7J5fWrpp8QlwIt6JwmpBGvgDV3F5O41o4w2K33btiLTmgQ==
-    size: 88203453
+    sha512: epCHPriyslN0GwXOMf7XG5Myy03Vd+8tB8iiKy+EkwWNwuvNuZZUeLKGUT3mqle3OK7TfzuOBIAePEAINnqM/Q==
+    size: 88199572
   - url: Luminaria-Launcher-mac-arm64.dmg
-    sha512: 5qXN/rD5MtbE5uz5e16Dw6kU+lHGVkAUvfPe5B19IKV+X9l2k8KtXAseG94KWsIHctuoZrvRx+xp3gGKlI4RYA==
-    size: 86341445
+    sha512: Tyxhak1a/xnXis3C4x3klRKI5HvMJFaSlLHuS+S1vIhJ0pHFJyoUamL6zDkaS4qKidO1EBnNROifuDTHVNonXg==
+    size: 86341054
 path: Luminaria-Launcher-mac-x64.dmg
-sha512: fRNsYYbdb/RodIr+09xuzHA722Y0A1cRC9TZjjPv7J5fWrpp8QlwIt6JwmpBGvgDV3F5O41o4w2K33btiLTmgQ==
-releaseDate: '2025-02-11T21:47:30.079Z'
+sha512: epCHPriyslN0GwXOMf7XG5Myy03Vd+8tB8iiKy+EkwWNwuvNuZZUeLKGUT3mqle3OK7TfzuOBIAePEAINnqM/Q==
+releaseDate: '2025-02-11T21:59:58.336Z'
