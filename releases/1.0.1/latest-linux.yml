@@ -1,9 +1,0 @@
-version: 1.0.1
-files:
-  - url: Luminaria-Launcher-linux-x86_64.AppImage
-    sha512: 876I3PjI+uzWdmXtw0o84Kp9UaVBQxc3Eglq4YuKBi7cyEtxjmeiBamIDLdEYEhUVOedwG7LrFpV41tw1dFoZA==
-    size: 74913885
-    blockMapSize: 79985
-path: Luminaria-Launcher-linux-x86_64.AppImage
-sha512: 876I3PjI+uzWdmXtw0o84Kp9UaVBQxc3Eglq4YuKBi7cyEtxjmeiBamIDLdEYEhUVOedwG7LrFpV41tw1dFoZA==
-releaseDate: '2025-02-11T22:11:52.535Z'

@@ -1,8 +1,0 @@
-version: 1.0.0
-files:
-  - url: Luminaria-Launcher-win-x64.exe
-    sha512: 8qAuCAQj8I0N6HgptLaChy4nW/KPpQCEdUAz8CdCQWx0oXEZ+IPHSsI0dY4nUJwiSNhpjPiL9/2qSqk51SM4kA==
-    size: 72937920
-path: Luminaria-Launcher-win-x64.exe
-sha512: 8qAuCAQj8I0N6HgptLaChy4nW/KPpQCEdUAz8CdCQWx0oXEZ+IPHSsI0dY4nUJwiSNhpjPiL9/2qSqk51SM4kA==
-releaseDate: '2025-02-11T22:03:30.639Z'
